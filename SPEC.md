@@ -32,6 +32,38 @@ Question screens:
 - No typing anywhere in the question flow.
 - Designed for a phone first. Most people will open it from a text or a link.
 
+## Proof points
+
+The statistics below give the landing page and the questions their credibility.
+Show each one with its source name, and link the source from a Sources section
+at the foot of the landing page and the results page. Never word a statistic as
+a promise of what the visitor will get.
+
+Landing page, as a row of three under the Start button:
+
+| Statistic                                                         | Source label                                      |
+|-------------------------------------------------------------------|---------------------------------------------------|
+| 55% of small businesses now use AI, up from 39% a year earlier    | Thryv survey of 540 small businesses, 2025        |
+| 58% of small businesses using AI save more than 20 hours a month  | Thryv survey of 540 small businesses, 2025        |
+| Professionals finished writing tasks 40% faster with AI           | Noy and Zhang, Science, 2023                      |
+
+Thryv source:
+https://www.thryv.com/news/ai-adoption-among-small-businesses-surges-41-in-2025-creating-new-era-of-growth-and-efficiency/
+Thryv sells software to small businesses and the figures are self-reported, so
+always show the source label beside them.
+
+Question screens Q3–Q7, as one line of small text under the answers:
+
+| #  | Line                                                                     | Source label                         |
+|----|--------------------------------------------------------------------------|--------------------------------------|
+| Q3 | Support agents with an AI assistant resolved 15% more issues per hour.   | Quarterly Journal of Economics, 2025 |
+| Q4 | Consultants using AI finished marketing tasks 25% faster.                | Harvard and BCG study, 2023          |
+| Q5 | Workers using an AI assistant spent 25% less time on email.              | Microsoft Research, 2025             |
+| Q6 | Accounting firms using AI closed their month 7.5 days sooner.            | Stanford and MIT study, 2025         |
+| Q7 | Professionals wrote documents 40% faster with AI.                        | Science, 2023                        |
+
+Full citations and links for these five are under "Evidence for the shares".
+
 ## The questions
 
 ### About the business
